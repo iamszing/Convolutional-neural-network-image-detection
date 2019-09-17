@@ -7,3 +7,6 @@ The following model gives an accuracy close to 82 percent.
 If you are using anaconda : To install keras simply type
 conda install -c conda-forge keras
 in the annaconda prompt.
+
+This is divided into two forms test data and training data consisting of 2000 and 8000 images respectively.
+Simply Change the dataset name and you can get the result for any data.
